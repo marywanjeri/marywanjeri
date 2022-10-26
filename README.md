@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on building projects that will have an impact in our society, solve problems and help bridge the gap through bringing solutions. Working in teams to bring more ideas to transform the Engineering world.
 - 📫 How to reach me:
 phone: +254741053955
-email: maryshiks53@gmail.com
+email: wanjerimary925@gmail.com
 
 <!---
 marywanjeri/marywanjeri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

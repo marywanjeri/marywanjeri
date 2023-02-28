@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @marywanjeri
-- 👀 I’m interested in programming,sofwares and emmbedded systems
-- 🌱 I’m currently learning machine learning and how to apply it the the real world to solve various problems in the market.
-- 💞️ I’m looking to collaborate on building projects that will have an impact in our society, solve problems and help bridge the gap through bringing solutions. Working in teams to bring more ideas to transform the Engineering world.
-- 📫 How to reach me:
+-  Hi, I’m @marywanjeri
+-  I’m interested in programming,CAD design and emmbedded systems
+-  I’m currently learning machine learning and how to apply it the the real world to solve various problems in the market.
+-  I’m looking to collaborate on building projects that will have an impact in our society, solve problems and help bridge the gap through bringing solutions. Working in teams to bring more ideas to transform the Engineering world.
+-  How to reach me:
 phone: +254741053955
 email: wanjerimary925@gmail.com
 
